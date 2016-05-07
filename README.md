@@ -1,0 +1,2 @@
+# VeganPowers
+A Minecraft plugin
